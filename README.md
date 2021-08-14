@@ -1,2 +1,2 @@
-# ddd
+# Python Practice
 Python Practice
